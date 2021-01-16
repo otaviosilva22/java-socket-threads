@@ -1,4 +1,4 @@
-# Aplicação de threads e socket em Java.
+# Aplicação de Threads e Socket em Java.
 
 Uso de threads em Java para transformar em escala de cinza uma imagem enviada do cliente para o servidor através de sockets.
 
