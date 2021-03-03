@@ -9,7 +9,8 @@ Uso de threads em Java para transformar em escala de cinza uma imagem enviada do
 
 <h2> Threads </h2>
 
-A imagem foi dividida em 4 threads, sendo que cada uma dessas transformava cada pixel em escala de cinza.
+A imagem foi dividida em um quadrante, e em cada um desses houve uma execução de thread. A partir disso, os pixels foram transformados em escala de cinza por meio da função ```setRGB```.  
+
 ```
 for (int x = larguraInicial; x<this.larguraFinal; x++){
     for (int y = this.alturaInicial; y<this.alturaFinal; y++){
