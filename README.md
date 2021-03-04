@@ -3,7 +3,7 @@
 Uso de threads em Java para transformar em escala de cinza uma imagem enviada do cliente para o servidor através de socket.
 
 
-<h2> Tecnologias Utilizadas </h2>
+<h2> Tecnologias utilizadas </h2>
 
 - [Java](https://www.java.com/pt-BR/)
 
