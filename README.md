@@ -3,7 +3,7 @@
 Uso de threads em Java para transformar em escala de cinza uma imagem enviada do cliente para o servidor através de socket.
 
 
-<h2> Tecnologias utilizadas </h2>
+<h2> Tecnologias Utilizadas </h2>
 
 - [Java](https://www.java.com/pt-BR/)
 
@@ -30,7 +30,7 @@ try {
 ~~~
 
 ## Autor
-<b>Otávio Augusto Souza Silva</b>
+<b>Otávio Augusto Souza Silva.</b>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Otávio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otaviosilva22/)](https://www.linkedin.com/in/otaviosilva22/)
 [![Gmail Badge](https://img.shields.io/badge/-otavio.ssilva22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:otavio.ssilva22@gmail.com)](mailto:otavio.ssilva22@gmail.com)
